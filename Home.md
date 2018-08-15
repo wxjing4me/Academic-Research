@@ -14,11 +14,11 @@
 
 * Machine Learning and Lexicon Based Methods for Sentiment Classification: A Survey (2014)
 
-* Deep learning for sentiment analysis: successful approaches and future challenges (2015)
+* Deep Learning for Sentiment Analysis: Successful Approaches and Future Challenges (2015)
 
 * Like It or Not: A Survey of Twitter Sentiment Analysis Methods (2016)
 
-* A comprehensive survey for sentiment analysis tasks using machine learning techniques (2016)
+* A Comprehensive Survey for Sentiment Analysis Tasks Using Machine Learning Techniques (2016)
 
 * Sentiment Analysis of Twitter Data : A Survey of Techniques (2016)
 
