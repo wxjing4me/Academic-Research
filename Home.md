@@ -54,6 +54,8 @@
 
 * A Survey on Transfer Learning (IEEE 2010)
 
+* Extreme Learning Machine Based Transfer Learning Algorithms: A Survey (Neurocomputing 2017)
+
 ### Text
 
 * Boosting for transfer learning (ICML 2007)
@@ -90,13 +92,13 @@
 
 * Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks (ICCV 2017)]
 
-* Residual Parameter Transfer for Deep Domain Adaptation (2017)
+* Residual Parameter Transfer for Deep Domain Adaptation (2017) [[pdf]](https://arxiv.org/pdf/1711.07714.pdf)  [[note]]()
 
 * Adversarial Discriminative Domain Adaptation (CVPR 2017)
 
-* Generate To Adapt: Aligning Domains using Generative Adversarial Networks (2017)
+* Generate To Adapt: Aligning Domains using Generative Adversarial Networks (2017) [[pdf]](http://arxiv.org/abs/1704.01705) [[note]]()
 
-* Unsupervised Domain Adaptation with Adversarial Residual Transform Networks (2018)
+* Unsupervised Domain Adaptation with Adversarial Residual Transform Networks (2018) [[pdf]](https://arxiv.org/pdf/1804.09578.pdf) [[note]]()
 
 ## Others
 
