@@ -8,7 +8,7 @@ Distributed Representations of Sentences and Documents \(ICML 2014\) \[pdf\] \[n
 
 ## Sentiment Classification
 
-#### Survey
+### Survey
 
 Survey on Product Review Sentiment Classification and Analysis Challenges \(2013\)
 
@@ -26,7 +26,7 @@ A Survey on Opinion Mining and Sentiment Analysis: Tasks, Approaches and Applica
 
 A Survey of Multimodal Sentiment Analysis \(2017\)
 
-#### Paper
+### Paper
 
 Baselines and Bigrams: Simple, Good Sentiment and Topic Classification \(ACL 2012\)
 
