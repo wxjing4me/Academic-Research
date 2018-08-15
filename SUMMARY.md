@@ -1,23 +1,5 @@
-# Academic Research
+# Table of contents
 
-## Home
+* [Introduction](README.md)
+* [Home](home.md)
 
-## Representation
-
-## Sentiment Classification
-
-### Survey
-
-### Paper
-
-## Aspect Level Sentiment Classification
-
-## Cross-Domain Sentiment Classification
-
-### Survey
-
-### Text
-
-### Image
-
-## Others
