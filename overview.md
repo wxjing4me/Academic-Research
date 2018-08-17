@@ -32,6 +32,8 @@
 
 * Recursive Deep Models for Semantic Compositionality over a Sentiment Treebank (EMNLP 2013) [[pdf]](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf) [[note]]()
 
+* A Convolutional Neural Network for Modelling Sentences (ACL 2014) [[pdf]](http://aclweb.org/anthology/P/P14/P14-1062.pdf) [[note]]()
+
 * Learning Semantic Representations of Users and Products for Document Level Sentiment Classification (ACL 2015) [[pdf]](http://aclweb.org/anthology/P/P15/P15-1098.pdf) [[note]]()
 
 * Convolutional Neural Networks for Sentence Classification (EMNLP 2014) [[pdf]](http://aclweb.org/anthology/D/D14/D14-1181.pdf) [[note]]()
