@@ -1,4 +1,4 @@
 # Introduction
 
-> GitBook: [https://wxjing4me.gitbook.io/academic-research/](https://wxjing4me.gitbook.io/academic-research/)
+> Go to Wiki: [https://github.com/wxjing4me/Academic-Research/wiki](https://github.com/wxjing4me/Academic-Research/wiki)
 
